@@ -1,0 +1,35 @@
+16482024	11:01:86	727d5f8e-5b11-4409-ad3b-992dae4dedf7	GET	 undefined	/
+16492024	11:01:32	69598ed2-b075-4af9-9325-0e86e32f4710	GET	 undefined	/
+16522024	11:01:72	8e8afb89-efb4-4c4e-b406-c4f4ffe2680e	GET	 undefined	/old-page.html
+16522024	11:01:76	85280b7d-6833-4536-9f8f-3e44c4e16832	GET	 undefined	/new_page.html
+16542024	11:01:36	5e523d4e-2f8e-4833-a317-43d44f2c7d86	OPTIONS	 https://www.google.com	/
+16542024	11:01:37	b3b1ed28-ab46-4d5a-afe9-76c4ae2f0534	GET	 https://www.google.com	/
+16592024	11:01:01	eec12c99-6ff4-4c7d-971c-248cb5fcf56e	GET	 undefined	/old-page.html
+16592024	11:01:02	695005e5-ba87-479d-b5b8-fe287796a87d	GET	 undefined	/new_page.html
+16072024	12:01:67	0e42449d-b6d6-4499-bbaa-02d8b7ae0ceb	GET	 undefined	/old-page.html
+16072024	12:01:70	0f16327d-ea0a-4ad4-9a58-74990e7de7a2	GET	 undefined	/new_page.html
+16072024	12:01:75	f9785d8a-a370-47e0-bbef-4ee5375d7fd8	GET	 undefined	/new_page.html
+16082024	12:01:96	baef999a-afd4-4239-84a6-fa317b3f6c4d	OPTIONS	 https://www.google.com	/
+16082024	12:01:97	ed0cc508-f5e6-4db7-ba80-9b2b6e48359f	GET	 https://www.google.com	/
+16082024	12:01:89	14958ec1-7eef-4507-a0ff-8c1dcaf8fded	OPTIONS	 https://www.google.com	/
+16082024	12:01:91	d3a694e3-cc26-4832-94ae-df3b9b74a93d	GET	 https://www.google.com	/
+16092024	12:01:65	091411a1-87d9-4de4-a813-90fd319deee3	OPTIONS	 https://www.google.com	/
+16092024	12:01:67	250cf9d9-03e7-4ceb-b944-0548c789c6e2	GET	 https://www.google.com	/
+16102024	12:01:79	36e1753c-7e1e-4cf8-8a06-547e31ed8546	OPTIONS	 https://www.google.com	/
+16102024	12:01:81	8aead154-c0ce-43d1-9a02-27aefc05ead9	GET	 https://www.google.com	/
+16402024	12:01:44	cd9539c6-d1bf-4963-a307-057a35732f57	GET	 undefined	/
+16412024	12:01:91	d93547e2-8bb0-43dc-9945-eff2c60084b5	GET	 undefined	/
+16412024	12:01:91	cfbb81d5-14e3-4c6e-907c-c03ab2fe9e69	Error: Not allowedby CORS
+16432024	12:01:59	8a0c248d-c9d2-41a6-a9e2-fc05cbe39d6e	GET	 undefined	/
+16432024	12:01:60	1e83340e-0c1b-4cff-878c-2e50ce59f4be	Error: Not allowedby CORS
+16432024	12:01:94	15459570-0039-47f7-968e-3f4cf9ff972e	GET	 undefined	/
+16432024	12:01:95	917d730c-30dd-4589-9d7f-7356b864093c	Error: Not allowedby CORS
+16442024	12:01:39	09057ffc-1a58-4a74-acd1-fd85596190ac	GET	 undefined	/
+16442024	12:01:39	6f98d118-238a-4688-bd07-5dd9361aabc8	Error: Not allowedby CORS
+16022024	13:01:16	e8a50242-639c-4544-bc8b-652183626aaa	GET	 undefined	/
+16022024	13:01:17	4f67cc6b-9175-46de-bea6-af8b1cb7c5a1	Error: Not allowedby CORS
+16022024	13:01:49	57fc1516-4147-4704-aed9-6fa6a44933ca	GET	 undefined	/
+16022024	13:01:49	8781176f-e09e-4fb4-b2e6-ff66d9b9f3f2	Error: Not allowedby CORS
+16022024	13:01:76	45ac072e-f451-42ef-8cd8-0e3d5161ee87	Error: Not allowedby CORS
+16022024	13:01:76	94e98fff-a83e-4c75-a266-3cf51dade30b	GET	 undefined	/
+16042024	13:01:12	130d6233-f894-45de-9f90-ba591dc7537b	GET	 undefined	/

@@ -1,0 +1,3 @@
+create write file successfully
+
+ append can use update the file content or add the data to writefile
