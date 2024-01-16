@@ -84,3 +84,5 @@
 16052024	21:01:75	bbcefc29-adce-4007-8db0-497ee77cce72	TypeError: Cannot read properties of undefined (reading 'firstName')
 16072024	21:01:48	bec804f9-c3d4-4082-b995-85174c184625	DELETE	 undefined	/employee/2
 16072024	21:01:27	24544e21-fb7c-45e1-985d-f60ad8c5788b	DELETE	 undefined	/employee/2
+16362024	21:01:89	b03b6119-a5e1-4de9-916f-e1be1b6fc5c0	DELETE	 undefined	/employee
+16362024	21:01:90	a5b16669-7854-4b7a-b2be-890cf5637579	TypeError: Cannot read properties of undefined (reading 'id')
