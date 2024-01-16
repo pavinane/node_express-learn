@@ -33,3 +33,16 @@
 16022024	13:01:76	45ac072e-f451-42ef-8cd8-0e3d5161ee87	Error: Not allowedby CORS
 16022024	13:01:76	94e98fff-a83e-4c75-a266-3cf51dade30b	GET	 undefined	/
 16042024	13:01:12	130d6233-f894-45de-9f90-ba591dc7537b	GET	 undefined	/
+16292024	19:01:53	5994c34d-1763-4112-a73c-a1b472d1c728	GET	 undefined	/subdir
+16292024	19:01:40	2d4b5466-378d-44a0-bc73-5de9048cb947	GET	 undefined	/subdir/test
+16362024	19:01:08	d027a25d-ca36-447e-bcf7-5dfb4bdab411	GET	 undefined	/
+16362024	19:01:78	e53e6634-3160-4f99-b935-248d9caa7321	GET	 undefined	/
+16362024	19:01:63	d658e39f-549c-4fcc-b241-f6c1f0014fcb	GET	 undefined	/
+16372024	19:01:15	e4f9d40b-3121-4bac-86d4-c70e9373e301	GET	 undefined	/new_page.html
+16392024	19:01:67	15aa022c-4fc4-4fbd-a6fb-db740f6584e3	GET	 undefined	/
+16422024	19:01:41	44169b9e-a059-4b9f-9352-2a1aad9cbb49	GET	 undefined	/old-page.html
+16422024	19:01:44	b535c40a-95d1-4f8d-872b-c80e9bb9ab78	GET	 undefined	/new_page.html
+16422024	19:01:00	78b65876-07a3-439e-aa56-210400d7166a	GET	 undefined	/dd
+16422024	19:01:96	fbe20a77-fae3-4e13-bf50-5a51400637f9	GET	 undefined	/subdir
+16422024	19:01:10	e9e40cb3-ea5c-41a0-bb38-cb5a97863587	GET	 undefined	/subdir/dgsh
+16432024	19:01:36	6b20a69f-21c8-4534-a786-3c247d21b144	GET	 undefined	/subdir/test

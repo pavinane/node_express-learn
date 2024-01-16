@@ -28,17 +28,8 @@ const corsOption = {
 };
 
 app.use(cors(corsOption));
-app.get("^/$|/index(.html)?", (req, res) => {
-  res.sendFile(path.join(__dirname, "views", "index.html"));
-});
-
-app.get("/new_page.html", (req, res) => {
-  res.sendFile(path.join(__dirname, "views", "newPage.html"));
-});
-
-app.get("/old-page(.html)?", (req, res) => {
-  res.redirect("new_page.html"); // mention as path url
-});
+app.use("/", require("./routes/root"));
+app.use("/subdir", require("./routes/subDir"));
 
 //  blow code used for get method only
 // app.get("/*", (req, res) => {
