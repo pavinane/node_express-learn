@@ -30,6 +30,7 @@ const corsOption = {
 app.use(cors(corsOption));
 app.use("/", require("./routes/root"));
 app.use("/subdir", require("./routes/subDir"));
+app.use("/employee", require("./routes/api/employee"));
 
 //  blow code used for get method only
 // app.get("/*", (req, res) => {
